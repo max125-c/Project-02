@@ -189,6 +189,12 @@ margin-left: 200px;
     color: rgb(69, 69, 69);
 }
 
+.child5:hover{
+    background-color: #18bc9c;
+}
+.child6:hover{
+    background-color: #18bc9c;
+}
 /* Footer NExt block */
 
 .container8{
